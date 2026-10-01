@@ -1,4 +1,5 @@
 # Program menampilkan deret aritmetika dan menghitung jumlahnya
+# Perulangan digunakan untuk menghitung setiap suku dan total deret
 
 a = float(input("Suku pertama (a): "))
 d = float(input("Beda (d): "))
